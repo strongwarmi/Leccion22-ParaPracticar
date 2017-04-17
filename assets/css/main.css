@@ -1,19 +1,25 @@
 body{
   font-family: sans-serif;
 }
-div{
-  margin-left: 5px;
-  margin-right: 5px;
-  padding: 5px;
-  display: inline-block;
-  height: 50px;
-  width: 200px;
-}
 
-.yellow{
+.individual{
   background-color: yellow;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+  margin-left: 10px;
 }
 
-.pink{
+.inline-block{
   background-color: #ed2251;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin: 10px;
+}
+
+.grupal{
+  background-color: pink;
+  width: 370px;
+  margin-left: 10px;
 }
