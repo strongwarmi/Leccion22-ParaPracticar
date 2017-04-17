@@ -3,10 +3,15 @@ body{
 }
 div{
   height: 50px;
+  margin: 20px;
+  width: 200px;
+  padding: 5px;
 }
+
 .yellow{
   background-color: yellow;
 }
+
 .pink{
   background-color: #ed2251;
   border: 1px solid #000;
