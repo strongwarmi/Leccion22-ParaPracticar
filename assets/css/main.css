@@ -1,0 +1,13 @@
+body{
+  font-family: sans-serif;
+}
+div{
+  height: 50px;
+}
+.yellow{
+  background-color: yellow;
+}
+.pink{
+  background-color: #ed2251;
+  border: 1px solid #000;
+}
